@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f9f7f7</color>
+    <color name="colorPrimaryDark">#666262</color>
+    <color name="colorAccent">#70cf5b</color>
+
+    <color name="fncolorPrimary">#90b1a2a2</color>
+    <color name="fcolorPrimaryDark">#90666262</color>
+    <color name="fcolorAccent">#9070cf5b</color>
+    <color name="fcolorPrimary">#cf8487df</color>
+    <color name="heartcolor">#ddff5900</color>
+    <color name="search_back">#ffffff</color>
+    <color name="tabindicator">#f955c2d6</color>
+    <color name="tabselect">#f955c2d6</color>
+    <color name="tabunselect">#666262</color>
+
+    <color name="headingcolor">#666060</color>
+    <color name="paracolor">#545050</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+
+
+    <dimen name="tab_max_width">264dp</dimen>
+    <dimen name="tab_padding_bottom">16dp</dimen>
+    <dimen name="tab_label">14sp</dimen>
+    <dimen name="custom_tab_layout_height">72dp</dimen>
+    <color name="colorAccent1">#FF4081</color>
+
+
+
+
+</resources>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:orientation="horizontal"
+
+
+
+    >
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:textAppearance="?attr/textAppearanceListItem" />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:textAppearance="?attr/textAppearanceListItem" />
+</RelativeLayout -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/hieghtitem"
+    android:layout_gravity="center_horizontal"
+    android:background="@android:color/white"
+    android:layout_marginTop="@dimen/between"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--android:tint="@color/fcolorPrimaryDark"-->
+
+
+    <ImageView
+
+        android:scaleType="centerCrop"
+        android:id="@+id/placepic"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/hieghtitem"
+        />
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/hieghtitem"
+        android:background="@drawable/round_rect"
+        />
+
+
+    <ImageView
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:id="@+id/favrt"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:padding="@dimen/heartpad"
+
+        />
+
+
+
+
+
+    <TextView
+        android:id="@+id/placeloc"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha=".9"
+        android:gravity="center"
+        android:text="Rajim dist-Raipur"
+        android:textColor="@android:color/white"
+        android:textSize="13dp"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:paddingLeft="@dimen/txtpad"
+        android:paddingBottom="@dimen/txtpad"
+
+        />
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"
+        android:id="@+id/placename"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_above="@+id/placeloc"
+        android:gravity="center"
+        android:text="Rajim Lochan"
+        android:textColor="@android:color/white"
+        android:textSize="20dp"
+        android:paddingLeft="@dimen/txtpad"
+
+
+        />
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,297 @@
+<resources>
+    <string name="app_name">CGTourism</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchwithdot">Search...</string>
+    <string name="calls">Calls</string>
+    <string name="chats">Chats</string>
+    <string name="contacts">Contacts</string>
+    <string name="action_search">Search</string>
+    <string name="action_new_chat">New chat</string>
+    <string name="rjm">rajim lochan</string>
+    <string name="rjmloc">rajim raipur dist</string>
+    <string name="booking">booking</string>
+    <string name="details">details</string>
+    <string name="ratings">ratings</string>
+    <string name="map">map</string>
+    <string name="header">About Kanger Valley</string>
+    <string name="detail_para">Kanger Valley National Park is one of the most beautiful and picturesque national parks of India. The beautiful park is located on the banks of Khola River at a distance of about 27 km from Jagdalpur (headquarter of Bastar). Spread over an area of approximately 200 sq km comprising mainly of hilly terrain, the Park derives its name from the Kanger River, which flows throughout its length.</string>
+    <string name="key">AIzaSyAh423xUpzUTlSAVMVxyEqyVJ_UTff93fs</string>
+
+
+    <string name="z_1">099075 89699</string>
+    <string name="z_2">091110 09040</string>
+    <string name="z_3">099075 89699</string>
+    <string name="z_4">077708 45523</string>
+    <string name="z_5">099903 38441</string>
+    <string name="z_6">083199 46507</string>
+    <string name="z_7">083199 46507</string>
+    <string name="z_8">1800 102 6415</string>
+    <string name="z_9">096918 97143</string>
+    <string name="z_10">N/A</string>
+    <string name="z_11">077459 80412</string>
+    <string name="z_12">N/A</string>
+    <string name="z_13">N/A</string>
+    <string name="z_14">N/A</string>
+    <string name="z_15">072470 00400</string>
+    <string name="z_16">080859 89809</string>
+    <string name="z_17">099775 62535</string>
+    <string name="z_18">N/A</string>
+    <string name="z_19">087190 49432</string>
+    <string name="z_20">N/A</string>
+    <string name="z_21">N/A</string>
+    <string name="z_22">N/A</string>
+    <string name="z_23">N/A</string>
+    <string name="z_24">N/A</string>
+    <string name="z_25">080859 89809</string>
+    <string name="z_26">N/A</string>
+    <string name="z_27">N/A</string>
+    <string name="z_28">093030 37453</string>
+    <string name="z_29">N/A</string>
+    <string name="z_30">N/A</string>
+    <string name="z_31">077125 37404</string>
+    <string name="z_32">091110 09059</string>
+    <string name="z_33">093293 41636</string>
+    <string name="z_34">N/A</string>
+    <string name="z_35">N/A</string>
+    <string name="z_36">077822 28640</string>String
+    <string name="z_37">N/A</string>
+    <string name="z_38">N/A</string>
+    <string name="z_39">093017 26063</string>
+    <string name="z_40">N/A</string>
+    <string name="z_41">N/A</string>
+    <string name="z_42">N/A</string>
+    <string name="y_1">494010</string>
+    <string name="y_2">494442</string>
+    <string name="y_3">494010</string>
+    <string name="y_4">497335</string>
+    <string name="y_5">496225</string>
+    <string name="y_6">496224</string>
+    <string name="y_7">496331</string>
+    <string name="y_8">497111</string>
+    <string name="y_9">497231</string>
+    <string name="y_10">495453</string>
+    <string name="y_11">493888</string>
+    <string name="y_12">494001</string>
+    <string name="y_13">491445</string>
+    <string name="y_14">491228</string>
+    <string name="y_15">495442</string>
+    <string name="y_16">491995</string>
+    <string name="y_17">493445</string>
+    <string name="y_18">494441</string>
+    <string name="y_19">493885</string>
+    <string name="y_20">493101</string>
+    <string name="y_21">493335</string>
+    <string name="y_22">495557</string>
+    <string name="y_23">491445</string>
+    <string name="y_24">496445</string>
+    <string name="y_25">491995</string>
+    <string name="y_26">494450</string>
+    <string name="y_27">497226</string>
+    <string name="y_28">493551</string>
+    <string name="y_29">496225</string>
+    <string name="y_30">494001</string>
+    <string name="y_31">492001</string>
+    <string name="y_32">492101</string>
+    <string name="y_33">495334</string>
+    <string name="y_34">494444</string>
+    <string name="y_35">497778</string>
+    <string name="y_36">494334</string>
+    <string name="y_37">494001</string>
+    <string name="y_38">494001</string>
+    <string name="y_40">494001</string>
+    <string name="y_41">493776</string>
+    <string name="y_42">495453</string>
+
+    <string name="x_1">Tiratha, Chhattisgarh</string>
+    <string name="x_2">Kanger Valley National Park, Tirathgarh, Chhattisgarh</string>
+    <string name="x_3">Tiratha, Chhattisgarh</string>
+    <string name="x_4">koriya ,Chhattisgarh</string>
+    <string name="x_5">Gullu, Chhattisgarh</string>
+    <string name="x_6">Rouni, Chhattisgarh</string>
+    <string name="x_7">Dharen, Chhattisgarh</string>
+    <string name="x_8">Ambikapur Marg, Narbadapur, Chhattisgarh</string>
+    <string name="x_9">Nawgai, Chhattisgarh </string>
+    <string name="x_10">Kendai, Chhattisgarh </string>
+    <string name="x_11">Gariaband, Chhattisgarh </string>
+    <string name="x_12">Kanger Ghati, Jagdalpur, Chhattisgarh</string>
+    <string name="x_13">Dongargarh, Chhattisgarh </string>
+    <string name="x_14">Pacheda, Chhattisgarh </string>
+    <string name="x_15">Mahamaya Mandir Raod, Ratanpur, Chhattisgarh</string>
+    <string name="x_16">Unnamed Road Chhattisgarh</string>
+    <string name="x_17">SH 9, Sirpur, Chhattisgarh </string>
+    <string name="x_18">Barsur, Chhattisgarh </string>
+    <string name="x_19">Rajim, Chhattisgarh </string>
+    <string name="x_20">Damakheda, Chhattisgarh </string>
+    <string name="x_21">Giraud, Chhattisgarh </string>
+    <string name="x_22">Sheorinarayan, Chhattisgarh </string>
+    <string name="x_23">Dongargarh, Chhattisgarh </string>
+    <string name="x_24">Raigarh, Chhattisgarh </string>
+    <string name="x_25">Kawardha, Chhattisgarh </string>
+    <string name="x_26">NH 16, Bhairamgarh, Chhattisgarh</string>
+    <string name="x_27">Bishrampur, Chhattisgarh </string>
+    <string name="x_28">Kasdol Road, Village Barbaspur, Barbaspur Gate, Raipur, Chhattisgarh </string>
+    <string name="x_29">Jashpur Nagar, Chhattisgarh </string>
+    <string name="x_30">Jagdalpur, Chhattisgarh </string>
+    <string name="x_31">Ghadi Chowk, Near Raj Bhavan, Civil Lines, Raipur, Chhattisgarh </string>
+    <string name="x_32">Sector 24, Uparwara, Naya Raipur, Chhattisgarh </string>
+    <string name="x_33">ATR office, Kawardha Road, Mungeli, Chhattisgarh </string>
+    <string name="x_34">Bijapur, Chhattisgarh </string>
+    <string name="x_35">Dhorgi, Chhattisgarh </string>
+    <string name="x_36">Kanger Ghati National Park ,Chhattisgarh</string>
+    <string name="x_37">Nagalsar, Chhattisgarh </string>
+    <string name="x_38">Bastar, Chhattisgarh </string>
+    <string name="x_39">Raigarh, Chhattisgarh </string>
+    <string name="x_40">Bastar, Chhattisgarh </string>
+    <string name="x_41">Dangi Macha, Chhattisgarh </string>
+    <string name="x_42">Lalpur, Chhattisgarh </string>
+
+umber 0x00000000
+    <string name="l_1">http://cgtourism.choice.gov.in/tourist-destinations/15/Waterfalls</string>
+    <string name="l_2">http://cgtourism.choice.gov.in/tourist-destinations/15/Waterfalls</string>
+    <string name="l_3">http://cgtourism.choice.gov.in/tourist-destinations/15/Waterfalls</string>
+    <string name="l_4">http://cgtourism.choice.gov.in/tourist-destinations/15/Waterfalls</string>
+    <string name="l_5">http://cgtourism.choice.gov.in/tourist-destinations/15/Waterfalls</string>
+    <string name="l_6">http://cgtourism.choice.gov.in/tourist-destinations/15/Waterfalls</string>
+    <string name="l_7">http://cgtourism.choice.gov.in/tourist-destinations/15/Waterfalls</string>
+    <string name="l_8">http://cgtourism.choice.gov.in/tourist-destinations/15/Waterfalls</string>
+    <string name="l_9">http://cgtourism.choice.gov.in/tourist-destinations/15/Waterfalls</string>
+    <string name="l_10">http://cgtourism.choice.gov.in/tourist-destinations/15/Waterfalls</string>
+    <string name="l_11">http://cgtourism.choice.gov.in/tourist-destinations/15/Waterfalls</string>
+    <string name="l_12">http://cgtourism.choice.gov.in/tourist-destinations/15/Waterfalls</string>
+    <string name="l_13">http://cgtourism.choice.gov.in/tourist-destinations/14/Religious</string>
+    <string name="l_14">http://cgtourism.choice.gov.in/tourist-destinations/14/Religious</string>
+    <string name="l_15">http://cgtourism.choice.gov.in/tourist-destinations/14/Religious</string>
+    <string name="l_16">http://cgtourism.choice.gov.in/tourist-destinations/14/Religious</string>
+    <string name="l_17">-http://cgtourism.choice.gov.in/tourist-destinations/14/Religious</string>
+    <string name="l_18">http://cgtourism.choice.gov.in/tourist-destinations/14/Religious</string>
+    <string name="l_19">http://cgtourism.choice.gov.in/tourist-destinations/14/Religious</string>
+    <string name="l_20">http://cgtourism.choice.gov.in/tourist-destinations/14/Religious</string>
+    <string name="l_21">http://cgtourism.choice.gov.in/tourist-destinations/14/Religious</string>
+    <string name="l_22">http://cgtourism.choice.gov.in/tourist-destinations/14/Religious</string>
+    <string name="l_23">http://cgtourism.choice.gov.in/tourist-destinations/14/Religious</string>
+    <string name="l_24">http://cgtourism.choice.gov.in/tourist-destinations/11/Wildlife-Sanctuaries</string>
+    <string name="l_25">http://cgtourism.choice.gov.in/tourist-destinations/11/Wildlife-Sanctuaries</string>
+    <string name="l_26">http://cgtourism.choice.gov.in/tourist-destinations/11/Wildlife-Sanctuaries</string>
+    <string name="l_27">http://cgtourism.choice.gov.in/tourist-destinations/11/Wildlife-Sanctuaries</string>
+    <string name="l_28">http://cgtourism.choice.gov.in/tourist-destinations/11/Wildlife-Sanctuaries</string>
+    <string name="l_29">http://cgtourism.choice.gov.in/tourist-destinations/11/Wildlife-Sanctuaries</string>
+    <string name="l_30">http://cgtourism.choice.gov.in/tourist-destinations/7/Tribes</string>
+    <string name="l_31">http://cgtourism.choice.gov.in/tourist-destinations/18/Museums</string>
+    <string name="l_32">http://cgtourism.choice.gov.in/tourist-destinations/18/Museums</string>
+    <string name="l_33">http://cgtourism.choice.gov.in/tourist-destinations/13/Tiger-Reserve</string>
+    <string name="l_34">http://cgtourism.choice.gov.in/tourist-destinations/13/Tiger-Reserve</string>
+    <string name="l_35">http://cgtourism.choice.gov.in/tourist-destinations/13/Tiger-Reserve</string>
+    <string name="l_36">http://cgtourism.choice.gov.in/tourist-destinations/13/Tiger-Reserve</string>
+    <string name="l_37">http://cgtourism.choice.gov.in/tourist-destinations/10/Caves</string>
+    <string name="l_38">http://cgtourism.choice.gov.in/tourist-destinations/10/Caves</string>
+    <string name="l_39">http://cgtourism.choice.gov.in/tourist-destinations/10/Caves</string>
+    <string name="l_40">http://cgtourism.choice.gov.in/tourist-destinations/10/Caves</string>
+    <string name="l_41">http://cgtourism.choice.gov.in/tourist-destinations/9/Dam</string>
+    <string name="l_42">http://cgtourism.choice.gov.in/tourist-destinations/9/Dam</string>
+
+
+
+
+
+
+
+    <string name="d_1">Chitrakoot Falls is situated in Bastar district of Indian state Chhattisgarh. On the journey of River Indrabati through dense vegetation on the plain in Chhattisgarh, suddenly the water of the flows drops with a height of 93 feet and build this magnificent waterfalls at Chitrakoot</string>
+
+    <string name ="d_2">The Tirathgarh Waterfalls is situated at a distance of 35 km from Jagdalpur, in the south-west direction. The waterfall has an approximate height of 300 ft and is situated in the Kanger Valley National Park</string>
+
+    <string name ="d_3">A small pretty waterfall is located about 24km from Chitrakoot. The view of the deep valley below and virgin forest beyond is spectacular. It is a lovely picnic spot. Check with locals for the haat (market) at Mardum village between Barsur and Chitrakote</string>
+
+    <string name="d_4">This beautiful natural waterfall is situated in Koriya district on the Hasdeo River. The water from the falls cascades down from a great height, creating a beautiful misty ambiance. The falls is also an important pilgrimage place which features a Shiva Temple.</string>
+
+
+    <string name="d_5">Churi Waterfall In Jashpur , Chhattisgarh This waterfall born by the Eb river and flows to Badalkhol Abhyaran.Wild Elephants always walks on this Abhyaran.</string>
+
+
+    <string name="d_6">Rajpuri waterfall is located 60 Km from Jashpur main situated in north eastern corner of the state Chattisgarh. The Rajpuri waterfall is one of the revisited spot among the tourist in Jashpur. The Rajpuri waterfall is surrounded by Tribal villages adds a different attraction to this waterfall. Tourists enjoy the Day trip to Rajpuri waterfall while on the stay to Jashpur.</string>
+
+    <string name="d_7">Rani Dah Waterfall, Jashpur is an ideal place for a quiet picnic, away from the din and bustle of city life.Situated in hilly terrain in the midst of forest, Rani Dah Waterfall is one of the most frequented picnic spots in Jashpur. The whole surrounding area near the waterfall tells of rich eco tourism in Jashpur. Interestingly the forest department of Chhattisgarh arranges tours to these beautiful places on request. There are tribal villages surrounding the Rani Dah Waterfall which adds a different sort of charm to the area. The area is in close proximity to Echkela and 12 kilometers from Jashpur main.</string>
+
+    <string name="d_8">Tiger Point waterfall another beautiful tourist destination located in Mainpat, Surguja district of ‪‎Chhattisgarh</string>
+
+    <string name="d_9">The Rakasganda fall is a tourist spot situated in Surguja district of Chhattisgarh. This fall is on Ren River. It is around 150 km from Ambikapur and around 60 km from Wadrafnagar. The best time to see Rakasganda is around April-June.</string>
+
+    <string name="d_10">Situated on the Bilaspur road amidst dense forest, Kendai Waterfall is a natural waterfall and a delightful picnic spot. This charming waterfall lies at Kendai village which is situated at a distance 85 km from korba district headquarter on the Bilaspur-Ambikapur State highway No. 5 in Chhattisgarh</string>
+
+    <string name="d_11">Devdhara Waterfall is unique gift from nature to people</string>
+
+    <string name="d_12">ailash Gufa is located in the dense jungle of Kangar Valley National Park. The cave seems to be out of some prehistoric era with dark and narrow entrance. This 100 meter long cave is located in a hill and came into notice in 1993. The stalactite and stalacmite formation leaves are the main features of this ancient cave.</string>
+
+
+    <string name="d_13">Dongargarh is the main tourist as well as pilgrimage of the district. The famous temple of MAA BAMLESHWARI is on a hilltop of 1600 feet in the town of Dongargarh. This temple is referred as BADI BAMLESHWARI. Another temple at ground level is situated about 1/2 kms. from the main temple complex. This temple is referred as CHHOTI BAMLESHWARI. Lakhs of people from in and around Chhattisgarh flock the shrine during the Navratras of Kavar (during Dusshera) and Chaitra (during Ramnavmi). During these Navratras melas (fair) are organized in the premises of the temple, which run 24 hours. Many companies and organizations display their product during this mela. The added tourist attraction is the ropeway. It is the only passenger ropeway in the state of Chhattisgarh.</string>
+
+    <string name="d_14">This ancient temple is at the confluence of the Dakini and Shankini rivers, about one and a half hours from Jagdalpur. It was built by the Chalukya kings of Bastar in honor of their family Goddess, Devi Danteshwari, who is venerated by both Hindus and tribals in the entire Bastar region. The temple is divided into four parts – Garbh Griha, Maha Mandap, Mukhya Mandap and Sabha Mandap. The first two are constructed using stone. The temple itself has been constructed at various times, but the sanctum sanctorum is believed to be more than 800 years old. A Garuda Pillar has been erected in front of the temple entrance. The Danteshwari Temple really comes to life during the Bastar Dussehra festival season. Men have to wear a lungi to enter the temple.</string>
+
+    <string name="d_15">Mahamaya Devi. Situated at 25 km away from the city of Bilaspur (Chhattisgarh) on the Bilaspur-Ambikapur state highway, the Mandir and the relics of scores of ancillary temples, domes, palaces and forts, now rundown by the time and natural forces – seem to tell a story. Once the capital of the Kalchuri kings, Ratanpur has almost a millennium of history.</string>
+
+
+    <string name="d_16">Bhoramdeo Temple, or the ‘Khajuraho of Chhattisgarh’, carved on the rocky stones in the Nagar style is an ancient Hindu temple dedicated to Lord Shiva. Situated in the Kabirdham district of Chhattisgarh, This temple was built in the period of 7th to 11th century A.D and is beautifully located amidst mountain ranges. The temples are said to be built by King Ramchandra of the Nag Dynasty. The Shiva Linga in the temple is wonderfully carved and the artistic appeal beckons the visitors. The Bhoramdeo temple has a resemblance with the Sun temple of Konark and The Khajuraho temple.</string>
+
+    <string name="d_17">Sirpur is an interesting site. The Laxman Temple here, believed to have been built in the 7 th century, is one of the finest brick temples in India, in good condition, and characterized by exquisite carvings and precise construction. The Archaeological Survey of India has established a museum in the temple premises, which houses a collection of rare statues and other relics significant to the Shaiva, Vaishnava, Buddhist and Jain faiths.</string>
+
+    <string name ="d_18">Located on the banks of the Indrāvati River, about 75 km (a one and a half to two hour drive) to the south west of Jagdalpur, Barsur was once an epicenter of Hindu civilization. It is believed that there were once 147 temples and an equal number of ponds here. The ruins of these temples, dating back to the 10th and 11th centuries (i.e. over 1,000 years old) can be seen even today. Some beautiful images of Lord Vishnu can also be seen. One Shiva temple, with 12 carved stone pillars, has nude figures on the outside. Another Shiva temple has 32 carved stone pillars, a black granite Nandi (Shiva’s carrier) bull, and two sanctum sanctorum with a common court. A 50 foot high temple, known locally as Mama-bhanja-ka-mandir (temple of the maternal uncle and nephew), is in good condition, but lacks an idol. It is not clear to which deity the temple was consecrated, or even if it was ever consecrated. The biggest attraction though, is the Ganesha Temple. While the temple itself is in ruins, two sandstone images of Ganesh, both in the aspect of Maha-Ganapati, are amazingly intact. The larger of these, and the more impressive, is about 8 feet high and over 17 feet wide.</string>
+
+
+    <string name="d_19">Rajim is famous for its rich cultural heritage and the beautiful ancient temples. The holy confluence of three rivers Mahanadi (Chitrotpala), Pairi and Sondur, called Triveni Sangam is at Rajim. Rajim is also known as the “Prayag” of the Chhattisgarh.</string>
+
+    <string name="d_20">Located about 135 km from Raipur, Girodhpuri is a pilgrim center in Raipur District of Chhattisgarh. This is birthplace of great satnami saint, Sant Shiromani Guru Ghasidas, who fought against social evils and advocated social equality and development. Every year in the month of Feb-march (5-7th of moon night of the falgun month of Vikram samvat) a very big fair is organized. This is in Baloda Bazaar district of Chhattisgarh.</string>
+
+    <string name ="d_21">Damakheda is a Religious and center place of Kabir Panth. Many kabirpanthi came on here in Magh mela and other Festival who belong on Damakheda. All over India and abroad kabirpanthi arrived here with family and joy with Bhajan-kirtan (sahib kabir songs). In present time sit in vansh gaddi – Panth shri huzur Prakash muni naam saheb (15th acharya of kabir panth). The holy place witness the Samadhi Mandir of great Sadguru’s.</string>
+
+    <string name ="d_22">This 11 th century Vaishnava temple was built by the kings of the Hayhay dynasty on the banks of the Mahanadi river, at Shivrinarayan Nagar. It is believed that Shabri Ashram, mentioned in the epic Ramayana, was located here. During Magh Purnima a fair is organized here.</string>
+
+    <string name ="d_23">Pragya Giri is at Dongargarh, Rajnandgaon district, Chhattisgarh, India. It is on a hilltop of 1000 feet. This is a Buddha vihara with a big Buddha statue facing east. It needs 225 steps to reach the mountain. On the top of the hill there is a garden and descriptions on the rock.</string>
+
+
+    <string name ="d_24">Gomarda Wildlife Sanctuary (GWS) is one of the Wildlife Sanctuaries in Chhattisgarh and it is located near Sarangarh town in Raigarh district of Chhattisgarh. It is approximately 10 km away from Sarangarh town in Raigarh district and is a perfect tourist locale for nature lovers and wildlife enthusiasts. A variety of exotic wildlife can be witnessed if one arrives at the Gomarda Wildlife Sanctuary. The months of winter are said to be the most ideal time of paying visit to the sanctuary, particularly from November till June. Wild animals found in the sanctuary include leopard, wild dog, jackal, fox, bedi or predators such as wild cat, gaur, nilgai, Sambhar, chital, kotri.</string>
+
+    <string name ="d_25">Bhoramdeo Wildlife Sanctuary also known as Bhoramdeo is located in Kabirdham district at a distance of 140 km from Raipur and is named after the famous Bhoramdeo temples. The best time to visit the Bhoramdeo Wildlife Sanctuary is between November and March and the town nearest to the sanctuary is that of Kawardha. The Sanctuary is 140 km from Raipur. You can travel to the Bhoramdeo Wildlife Sanctuary by roads from Kawardha which is again well connected to Raipur. The nearest airport is at Raipur.</string>
+
+    <string name="d_26">Bijapur is southernmost district of Chhattisgarh, is extracted from Large Bastar Division. This is rich with dense forest and Indravati River. It is situated 48 km from Bijapur. One of the prime attractions at Bhairamgarh Wildlife Sanctuary is the wild buffalo. Hill Hynas can also be seen. The tigers and leopards are also available in this sanctuary; however, they are less in number. Chinkaras can be easily sighted so are the Indian Gazelle and Chital. They can be sighted from different parts of the sanctuary and for those who love adventure it is the place to be in. Some of the other species that are to be found at Bhairamgarh Wildlife Sanctuary are Nilgai, Sambar, Gaur, Barking Deer, Sloth Bear, Wild Boar, Jackal and striped hyena.</string>
+
+    <string name ="d_27">Main wildlife attraction is Nilgai, Chital, Sambar, Chinkara, deer wild boars, foxes. The Tamor Pingla Wildlife Sanctuary which is located in the Surguja District is so called because of the 2 prominent features of this piece of land the Tamor Hill and the Pingala Nalla (stream). Bishrampur is the nearest railhead to the sanctuary. In the case of Tamor Pingla Wildlife Sanctuary too, Ambikapur makes a good halt for tourists who come to have a glimpse of the mixed wildlife of this sanctuary. Excellent time to explore the sanctuary and heat is from November to June.</string>
+
+
+    <string name="d_28">Barnawapara Wildlife sanctuary, is named after Bar and nawapara forest villages, which are in the heart of the sanctuary. It is a land mass of undulating terrain dotted with numerous low and high hillocks well forested area of North-eastern corner of Raipur district. The Tributaries of Mahanadi are the source of water. River Balam Delhi forms the western boundary and Jonk River forms the north-eastern boundary of the Sanctuary. The well stocked forests of the Sanctuary Classified as Teas sal and mixed forests. This sanctuary is famous for the frequent sighting of the Indian bison (Gaur) Cheetal, Sambhar, Neelgai, Wild boar are commonly seen.Bar-Nawapara boosts of over 150 species Birds.</string>
+
+    <string name="d_29">Badalkhol sanctuary is located in Jashpur district of Chhattisgarh. Badalkhol Sanctuary is about 160 km north of Raigarh. It lies on the banks of Eib River and Dorki River and spreads over an area of 105 sq km. The sanctuary’s vegetation is dominated by Sal forests. It is home to panther, chital, wild bear, jungle cat, monkey, jackals, hyena, bear, wolf, fox, cobra, kraits, python, red spur fall, bhora teetar, kala teetar, tree pie, green pigeon and rollers. January to June is the best time to visit.</string>
+
+    <string name ="d_30">This tribal community of chhattisgarh derived of wearing a distinctive head-dress, which resembles the horns of a wild bison . they generally wear that head-dress during ceremonies. The main distinct language spoken by this tribe of CHHATTISGARH is DANDAMI Maria. Some of them even speak understandable GONDI dialects, which is an oral language of Dravidian origin.</string>
+
+    <string name ="d_31">Mahant Ghasidas Sangrahalay Established in the year 1875, Mahant Ghasi Memorial Museum is located in Raipur, capital of Chhattisgarh. This museum was built by Raja Mahant Ghasidas of Rajnandgaon consequential to a surge of awareness regarding the preservation of archaeological heritage. It occupies a land of almost 2 hectares. It is one of the famous museums in Chhattisgarh and is amongst the 10 oldest museums in India. More specifically, the diverse collection of the museum is preserved in various galleries. The Archeological Gallery exhibits a rich collection of the articles and artifacts that were used during the Stone Age. The Sculpture Gallery exhibits stone carved idols of Gods and Goddesses. Other galleries of the museum are the Natural History Gallery, the Anthropology Gallery, the Tribal Gallery and the Ancient Arms and Armory Gallery. Different types of objects of anthropology and natural history are preserved here. The museum also houses arts, crafts and paintings. The first floor has objects related to nature and its history containing various birds, mammals and snakes.</string>
+
+    <string name="d_32">Purkhauti Muktangan is a open air art Museum cum Park Developed by Tourism Ministry of Chhattisgarh. It is located in Naya Raipur of Chhattisgarh. Here you can find all the Tribal Culture , Activity and all the popular Tourist places in Chhattisgarh.This Museum is being developed by Government of Chhattisgarh, Culture Department under Ministry of Tourism. The habitat, artifacts, folk dances, food habits of the tribals are being displayed.</string>
+
+    <string name="d_33">chanakmar Tiger Reserve in Chhattisgarh is a tropical moist deciduous and tropical dry deciduous forest. The reserve is also a part of the much larger Achanakmar-Amarkantak Biosphere Reserve. Sal, bija, saja, haldu, teak, tinsa, dhavara, lendia, khamar and bamboo flourish here along with over 600 species of medicinal plants. The winding Maniyari river that flows right through the heart of the reserve is its lifeline. Wild fauna found here includes the tiger, leopard, bison, flying squirrel, Indian giant squirrel, chinkara, wild dog, hyena, sambar, chital and over 150 species of birds. Even a short trek through this park easily reveals its extraordinary beauty and biodiversity</string>
+
+    <string name="d_34">Indravati National Park is the finest and most famous wildlife parks of Chhattisgarh. Indravati National Park is located in Dantewada district of Chhattisgarh. The Park derives its name from the Indravati River, which flows from east to west and forms the northern boundary of the reserve with the Indian state of Maharashtra. With a total area of approximately 2799.08 sq km, Indravati attained the status of a National Park in 1981 and a Tiger Reserve in 1983 under the famous Project Tiger of India to become one of the most famous tiger reserves of India.</string>
+
+    <string name="d_35">Guru Ghasidas National Park is marked as one of the most unique of all the protected areas in Chhattisgarh. If you are considering a Tour to Chhattisgarh try to include this park in your travel itinerary. The diverse vegetation of the region consists of a wide variety of mammal population. Tigers, Leopards, Chital, Nilgai, Chinkara, Jackals, Sambar, Four-horned Antelopes, Jungle Cat, Barking Deer, Porcupine, Monkey, Bison, Striped Hyena, Sloth Bear, Wild Dogs are some of the common species found in this region. It is also an ideal place to watch migratory birds. The best time to visit this place is during November to June.</string>
+
+    <string name="d_36">Kanger Valley National Park is one of the most beautiful and picturesque national parks of India. The beautiful park is located on the banks of Khola River at a distance of about 27 km from Jagdalpur (headquarter of Bastar). Spread over an area of approximately 200 sq km comprising mainly of hilly terrain, the Park derives its name from the Kanger River, which flows throughout its length.</string>
+
+    <string name="d_37">about 40 km from Jagdalpur, has the most spectacular formations of stalactites (limestone pillars hanging down from the roof) and stalagmites (pillars rising from the ground). Millions of years old, it is deep in a hill, 200 meters long, 35 meters wide and 55 meters deep. If you remember that stalactites and stalagmites are formed drop by drop, and that an inch takes about 6,000 years to form, the huge pillars of the Kanger Caves will leave you speechless. Some of the stalagmites have markings, indicating that they have been worshipped as Shiva Lingams. The reverberations caused here are strangely musical. With torch lights and a guide along with you on your expedition, experience all the thrill of exploring these amazing caves. It is possible to drive right up to these caves.</string>
+
+    <string name ="d_38">As you enter, you realize what the phrase “pitch-dark” means. As your guide holds up a lamp, the stalactites and stalagmites come alive as mystic creations of a master sculptor. Bastar are sure to mesmerize you with their charisma. Kutumsar Caves situated in the Kanger Valley National Park, stand at 38 km from Jagdalpur. The Kutumsar Caves display magnificent formations of stalactites and stalagmites and are probably the darkest of their sort, 35 meters below the ground level. The mineral rich rocks of this area have, over time, added bands of brilliant color to these rock formations. This is possibly the world’s second largest caves formed naturally and house five natural chambers and quite a few blind wells. Kutumsar caves are also home to a particular species of genetically blind fish.</string>
+
+    <string name ="d_39">Singhanpur is most popular for its ancient caves.. Singhanpur is situated 20 kms. away from Raigarh and has the distinction of hosting the oldest sculptures on earth. These sculptures are claimed to have been created in 30000 B.C. and look very similar to Mexican and Spanish sculptures.</string>
+
+    <string name ="d_40">he most mythological and historically important tourist destination of Ramgarh is the Sita Bengra Cave, or the residence of Goddess Sita. Located on a north-eastern slope of the hillock, the Sita Bengra Cave is 14m long, 4.2m bread with a height of 2m in the front which lessens on the back side. Outside the cave there are many circular mates and benches carved out of ancient stone. Human footprints in the right comer add to the mystical aura and stand testimony to the fact that Sitaji lived in the cave during her forest stay</string>
+
+    <string name ="d_41">Gangrel Dam, also known as the R.S. Sagar Dam, is located in Chhattisgarh, India. It is built across the Mahanadi River. It is located in Dhamtari district, about 15 km from dhamtari and about 90 km from Raipur. It is the longest dam in Chhattisgarh.</string>
+
+    <string name ="d_42">Bango (Hasdev) Dam is in Korba District...</string>
+
+
+
+
+
+
+
+
+
+</resources>
